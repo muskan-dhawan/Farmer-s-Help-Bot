@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+deep-translator
+langdetect
+pandas
+numpy
+python-dotenv
+requests
+pyTelegramBotAPI
+python-telegram-bot
+pytz
+apscheduler
